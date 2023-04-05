@@ -1,2 +1,2 @@
-# NEW-MEDIA-WEBSTE
-OTT content management website
+# NEWS-WEBSTE
+News website
